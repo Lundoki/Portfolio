@@ -1,22 +1,14 @@
-@font-face {
-font-family: 'meatloaf';
-font-style: normal;
-font-weight: normal;
-src: local('meatloaf Regular'), url('Meatloaf.woff') format('woff');
-}
-
-
 body {
 	background-image: url('images/trianglify.png');
 	background-attachment: fixed;
 	background-size: cover;
-	font-family: stanberryregular;
+	font-family: Stanberry;
 	src: url(fonts/Stanberry.ttf);
 } 
 
-
 .navbar {
-	font-family: stanberryregular;
+	font-family: Stanberry;
+	src: url(fonts/Stanberry.ttf);
 	font-size: 15px;
 }
 
@@ -47,7 +39,8 @@ body {
 #name {
 	padding-top: 120px;
 	font-size: 15vw;
-	font-family: meatloaf;
+	font-family: Meatloaf;
+	src: url(fonts/Meatloaf.ttf);
 	color: #343a40;
 	text-align: center;
 }
