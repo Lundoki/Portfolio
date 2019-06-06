@@ -1,6 +1,6 @@
 @font-face{
     font-family : "Stanberry";
-          url('fonts/Stanberry.ttf') format('truetype');
+          url('/Stanberry.ttf') format('truetype');
 }
 
 body {
