@@ -3,12 +3,12 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 	font-family: Stanberry;
-	src: url(./fonts/Stanberry.ttf);
+	src: url(../fonts/Stanberry.ttf);
 } 
 
 .navbar {
 	font-family: Stanberry;
-	src: url(./fonts/Stanberry.ttf);
+	src: url(../fonts/Stanberry.ttf);
 	font-size: 15px;
 }
 
