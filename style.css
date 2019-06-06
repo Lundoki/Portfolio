@@ -3,12 +3,12 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 	font-family: Stanberry;
-	src: url(fonts/Stanberry.ttf);
+	src: url(./fonts/Stanberry.ttf);
 } 
 
 .navbar {
 	font-family: Stanberry;
-	src: url(fonts/Stanberry.ttf);
+	src: url(./fonts/Stanberry.ttf);
 	font-size: 15px;
 }
 
@@ -40,7 +40,7 @@ body {
 	padding-top: 120px;
 	font-size: 15vw;
 	font-family: Meatloaf;
-	src: url(fonts/Meatloaf.ttf);
+	src: url(./fonts/Meatloaf.ttf);
 	color: #343a40;
 	text-align: center;
 }
@@ -105,7 +105,7 @@ body {
 	background: white; 
 	position: relative; 
 	font-family: Minou DEMO;
-	src: url(fonts/Minou DEMO.ttf);
+	src: url(./fonts/Minou DEMO.ttf);
 	font-size: 25px;
 	-moz-border-radius: 10px; 
 	-webkit-border-radius: 10px; 
