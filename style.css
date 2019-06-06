@@ -1,13 +1,18 @@
+@font-face{
+    font-family : "Stanberry";
+          url('fonts/Stanberry.ttf') format('truetype');
+}
+
 body {
 	background-image: url('images/trianglify.png');
 	background-attachment: fixed;
 	background-size: cover;
-	font-family: Stanberry;
+	font-family: "Stanberry";
 	src: url(fonts/Stanberry.ttf);
 } 
 
 .navbar {
-	font-family: Stanberry;
+	font-family: "Stanberry";
 	src: url(fonts/Stanberry.ttf);
 	font-size: 15px;
 }
